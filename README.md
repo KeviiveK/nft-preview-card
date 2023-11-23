@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [nft-preview-card]((https://keviivek.github.io/nft-preview-card/)
+- Live Site URL: [nft-preview-card](https://keviivek.github.io/nft-preview-card/)
 
 ## My process
 
